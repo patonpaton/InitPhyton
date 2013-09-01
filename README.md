@@ -1,4 +1,4 @@
 InitPhyton
 ==========
 
-Sera para iniciar con el lenguaje Phyton
+Este repositorio fue creado para aprender python y git
